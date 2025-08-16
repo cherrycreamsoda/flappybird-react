@@ -1,2 +1,14 @@
 # Write all files to ignore in this file.
 # This file is used to specify files and directories that should be ignored by Git.
+
+node_modules
+dist
+build
+.next
+.vscode
+.DS_Store
+.env
+.env.local
+next-env.d.ts
+package-lock.json
+yarn.lock
